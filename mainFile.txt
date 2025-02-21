@@ -1,2 +1,2 @@
-line2 main file
-line3 main file
+line1 main file
+new line 2
